@@ -11,3 +11,7 @@ echo "a new line of code added inot develop.";
         return true;
     }
 }
+
+if("Branch" === "Develop"){
+    echo "This code added!";
+}
